@@ -9,7 +9,7 @@ Credit for the framework and the original patches goes to those projects.
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/0x0day-0wl/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
+> **[v2.1.0](https://github.com/0x0day-0wl/morphe-patches/releases/tag/v2.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;3 patches total
 <details open>
 <summary>📦 Chefkoch&nbsp;&nbsp;•&nbsp;&nbsp;3 patches</summary>
 <br>

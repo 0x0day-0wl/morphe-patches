@@ -1,3 +1,9 @@
+## [2.1.0](https://github.com/0x0day-0wl/morphe-patches/compare/v2.0.0...v2.1.0) (2026-09-30)
+
+### ✨ New Features
+
+* republish bundle above cached upstream 2.0.0 ([13e9dbe](https://github.com/0x0day-0wl/morphe-patches/commit/13e9dbe783ea5a7d3766b69ed0d3654b90d82d6b))
+
 ## 1.0.0 (2026-09-30)
 
 ### ✨ New Features

@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-09-30T07:28:06",
-  "description": "## 1.0.0 (2026-09-30)\n\n### ✨ New Features\n\n* **chefkoch:** remove ads, analytics and tracking ([6aa59e0](https://github.com/0x0day-0wl/morphe-patches/commit/6aa59e036e9daef67cd569a07f1e0990c7bca651))",
-  "download_url": "https://github.com/0x0day-0wl/morphe-patches/releases/download/v1.0.0/patches-1.0.0.mpp",
+  "created_at": "2026-09-30T07:34:53",
+  "description": "## [2.1.0](https://github.com/0x0day-0wl/morphe-patches/compare/v2.0.0...v2.1.0) (2026-09-30)\n\n### ✨ New Features\n\n* republish bundle above cached upstream 2.0.0 ([13e9dbe](https://github.com/0x0day-0wl/morphe-patches/commit/13e9dbe783ea5a7d3766b69ed0d3654b90d82d6b))",
+  "download_url": "https://github.com/0x0day-0wl/morphe-patches/releases/download/v2.1.0/patches-2.1.0.mpp",
   "signature_download_url": "",
-  "version": "1.0.0"
+  "version": "2.1.0"
 }
